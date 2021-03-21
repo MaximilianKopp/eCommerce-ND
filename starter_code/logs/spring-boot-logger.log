@@ -1,0 +1,12 @@
+2021-03-21 02:21:50,820 INFO com.example.demo.controllers.CartController [main] [ADD TO CART] [Success] for user : test
+2021-03-21 02:21:50,847 INFO com.example.demo.controllers.CartController [main] [ADD TO CART] [Success] for user : test
+2021-03-21 02:21:50,853 INFO com.example.demo.controllers.CartController [main] [REMOVE FROM CART] [SUCCESS] for user: test
+2021-03-21 02:21:59,997 INFO com.example.demo.controllers.CartController [main] [ADD TO CART] [Success] for user : test
+2021-03-21 02:22:00,029 INFO com.example.demo.controllers.CartController [main] [ADD TO CART] [Success] for user : test
+2021-03-21 02:22:00,030 INFO com.example.demo.controllers.CartController [main] [REMOVE FROM CART] [SUCCESS] for user: test
+2021-03-21 02:22:00,111 ERROR com.example.demo.controllers.OrderController [main] [ORDER HISTORY] [FAIL] for user : someone,REASON : User not found
+2021-03-21 02:22:00,113 ERROR com.example.demo.controllers.OrderController [main] [SUBMIT ORDER] [FAIL] for user: someone, REASON : User not found
+2021-03-21 02:22:00,118 INFO com.example.demo.controllers.OrderController [main] [SUBMIT ORDER] [SUCCESS] for user: test
+2021-03-21 02:22:00,168 INFO com.example.demo.controllers.UserController [main] [CREATED] [SUCCESS] for user : test
+2021-03-21 02:22:00,171 ERROR com.example.demo.controllers.UserController [main] [CREATED] [ERROR] Cannot create user because the password is not valid for:test
+2021-03-21 02:22:00,181 ERROR com.example.demo.controllers.UserController [main] [CREATED] [ERROR] Cannot create user because the password is not valid for:test
